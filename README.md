@@ -1,2 +1,3 @@
 # hello-world
-github first use
+hello 大家好，
+现在github 很流行，大家都把自己的项目放到这里. 我也来用用，把自己写的一些代码共享出来, 和大家一起交流下. 欢迎一起讨论
